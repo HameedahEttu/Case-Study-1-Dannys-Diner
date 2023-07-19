@@ -5,7 +5,8 @@ Introduction
 
 Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from its few months of operation but has no idea how to use its data to help them run the business.
 
-This ana
+This analysis SUCCESSFULLY answers 10 Case Study Questions, using a single SQL statement for each.
+
 Problem Statement
 
 Danny wants to use the data to answer a few simple questions about his customers, especially their visiting patterns, how much money they’ve spent, and which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
